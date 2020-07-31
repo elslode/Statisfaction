@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Statisfaction</string>
+    <string name="Bomb">ВЗРЫВ</string>
+    <string name="chiken">КУРИЦА</string>
+    <string name="plate">ТАРЕЛКА</string>
+    <string name="ak47">АК47</string>
+    <string name="laughter">СМЕХ</string>
+    <string name="beep">ГУДОК</string>
+    <string name="labelimage">LabelImage</string>
+</resources>
